@@ -67,12 +67,6 @@ Modern, interactive portfolio with 3D particle effects
 - **Features:** 3D particle system with mouse interaction, smooth scroll navigation
 - **Deployment:** Netlify with CI/CD via GitHub
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-</div>
-
 ## 🎯 Areas of Interest
 
 - 🏗️ **Distributed Systems** - Building scalable, fault-tolerant architectures
