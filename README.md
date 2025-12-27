@@ -71,12 +71,6 @@ Modern, interactive portfolio with 3D particle effects
 
 <div align="center">
   
-![Sumeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumeet-Y1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet-Y1&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sumeet-Y1&theme=tokyonight&hide_border=true)
-
 </div>
 
 ## 🎯 Areas of Interest
