@@ -17,9 +17,31 @@ Aspiring Backend Developer passionate about building **secure, scalable web appl
 
 ## 🛠️ Tech Stack
 
+### Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,threejs,aws,docker,nginx,linux,git,github,maven,postman,idea" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+  </a>
+</p>
+
+### Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,threejs" />
+  </a>
+</p>
+
+### Database & Cloud
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,aws,docker,nginx,linux" />
+  </a>
+</p>
+
+### Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,idea" />
   </a>
 </p>
 
@@ -46,18 +68,6 @@ Modern, interactive portfolio with 3D particle effects
 - **Features:** 3D particle system with mouse interaction, smooth scroll navigation
 - **Deployment:** Netlify with CI/CD via GitHub
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Sumeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumeet-Y1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet-Y1&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sumeet-Y1&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 🎯 Areas of Interest
 
 - 🏗️ **Distributed Systems** - Building scalable, fault-tolerant architectures
@@ -68,14 +78,20 @@ Modern, interactive portfolio with 3D particle effects
 
 ## 🤝 Let's Connect!
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeet-backenddev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sumeetdev.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumeety202@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumeet-Y1)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/sumeet-backenddev">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://sumeetdev.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:sumeety202@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/Sumeet-Y1">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
