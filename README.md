@@ -20,28 +20,28 @@ Aspiring Backend Developer passionate about building **secure, scalable web appl
 ### Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven&perline=3" />
   </a>
 </p>
 
 ### Frontend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,threejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,threejs&perline=4" />
   </a>
 </p>
 
 ### Database & Cloud
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,aws,docker,nginx,linux" />
+    <img src="https://skillicons.dev/icons?i=mysql,aws,docker,nginx,linux&perline=5" />
   </a>
 </p>
 
 ### Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,idea" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,idea&perline=4" />
   </a>
 </p>
 
@@ -80,16 +80,19 @@ Modern, interactive portfolio with 3D particle effects
 
 <p align="center">
   <a href="https://linkedin.com/in/sumeet-backenddev">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://sumeetdev.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3308/3308395.png" alt="Portfolio" width="50" height="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sumeety202@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" height="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Sumeet-Y1">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
   </a>
 </p>
 
