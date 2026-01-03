@@ -32,6 +32,46 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> Connect & Collaborate
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
+
+### 🚀 Let's Build Something Amazing Together!
+
+I'm always excited to collaborate on interesting projects, discuss system architecture,  
+or chat about backend tech, cloud computing, and AI integration!
+
+<br>
+
+<a href="https://linkedin.com/in/sumeet-backenddev" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_&_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
+</a>
+<a href="mailto:sumeety202@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
+</a>
+<a href="https://sumeetdev.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" alt="Portfolio"/>
+</a>
+<a href="https://github.com/Sumeet-Y1" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+</a>
+
+<br><br>
+
+### 💬 "Great backends are invisible—they just work, fast and reliably"
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+<br>
+
+<sub>⚡ Built with passion by Sumeet Yadav | Last Updated: January 2026 | Powered by ☕ and 💙</sub>
+
+</div>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
