@@ -314,9 +314,9 @@ timeline
 <b>∞ cups/day</b>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="80">
-<h3>🚀 Deployments</h3>
-<b>10+ live projects</b>
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80">
+<h3>🐛 Bugs Fixed</h3>
+<b>∞ and counting</b>
 </td>
 <td align="center" width="25%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="80">
