@@ -319,14 +319,14 @@ timeline
 <b>1000+ and counting</b>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="80">
-<h3>🚀 Deployments</h3>
-<b>10+ live projects</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="80">
+<h3>🤖 Spring AI</h3>
+<b>AI Integration Master</b>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80">
-<h3>💡 Best Code</h3>
-<b>After midnight</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="80">
+<h3>💡 IntelliJ IDEA</h3>
+<b>My Code Editor</b>
 </td>
 </tr>
 </table>
