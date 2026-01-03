@@ -314,7 +314,7 @@ timeline
 <b>∞ cups/day</b>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80">
 <h3>🐛 Bugs Fixed</h3>
 <b>∞ and counting</b>
 </td>
