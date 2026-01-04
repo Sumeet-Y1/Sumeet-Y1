@@ -26,7 +26,7 @@
 const sumeet = {
     location: "Mumbai, India 🇮🇳",
     role: "Backend Engineer",
-    education: "B.Tech IT @ SIES",
+    education: "B.Tech IT ",
     currentFocus: "AI-Powered APIs",
     
     techStack: {
