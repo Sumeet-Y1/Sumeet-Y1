@@ -1,239 +1,308 @@
 <div align="center">
 
-# 👋 HELLO, I'M SUMEET YADAV
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> HEY THERE, I'M SUMEET YADAV
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+%F0%9F%92%BB;Spring+Boot+Specialist+%E2%98%95;REST+API+Architect+%F0%9F%9A%80;Cloud+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Scalable+Systems+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Engineer+%F0%9F%92%BB;Spring+Boot+Developer+%E2%98%95;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 
-### Backend Developer | Spring Boot Expert | Cloud Architect
+### Backend Developer | Cloud Architect | AI Integration Specialist
 
-[![Portfolio](https://img.shields.io/badge/🔗_Portfolio-Visit_Now-00D9FF?style=for-the-badge&labelColor=1a1a2e)](https://sumeetdev.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2)](https://linkedin.com/in/sumeet-backenddev)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c5221f)](mailto:sumeety202@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sumeetdev.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeet-backenddev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumeety202@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=Sumeet-Y1&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Sumeet-Y1&color=blue&style=for-the-badge)
 
 </div>
 
 ---
 
-## 💫 About Me
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-I'm a **Backend Developer** from Mumbai, India, specializing in building **production-ready RESTful APIs** using **Spring Boot** and **Java**. 
-
-My expertise lies in creating **secure, scalable backend systems** with proper authentication, database optimization, and cloud deployment strategies.
-
-### 🎯 What I Do:
-- ⚡ Build RESTful APIs with Spring Boot
-- 🔐 Implement JWT authentication & Spring Security
-- 🗄️ Design MySQL databases with JPA/Hibernate
-- ☁️ Deploy on AWS, Docker, and cloud platforms
-- 🤖 Integrate AI capabilities into backend systems
-- 🏗️ Follow layered architecture patterns
-
-### 🌱 Currently Exploring:
-- Kubernetes & container orchestration
-- Microservices architecture patterns
-- Distributed systems design
-- Message queues (Kafka, RabbitMQ)
-- Advanced Spring Boot features
+```javascript
+const sumeet = {
+    location: "Mumbai, India 🇮🇳",
+    role: "Backend Engineer",
+    education: "B.Tech IT ",
+    currentFocus: "AI-Powered APIs",
+    
+    techStack: {
+        backend: ["Java", "Spring Boot", "Spring Security"],
+        databases: ["MySQL", "JPA", "Hibernate"],
+        cloud: ["AWS", "Docker", "Nginx"],
+        ai: ["Spring AI", "Groq API", "LLaMA 3.3"]
+    },
+    
+    currentlyLearning: ["Kubernetes", "Microservices", "System Design"],
+    
+    funFact: "I turn coffee into code ☕ → 💻"
+};
+```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> What I'm Up To
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"><br>
+<b>🔥 Current Project</b><br>
+ProdPulse.AI - AI Error Analysis<br>
+<sub>Building with Spring AI & LLaMA</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"><br>
+<b>📚 Learning</b><br>
+Kubernetes & Microservices<br>
+<sub>Container orchestration mastery</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="100"><br>
+<b>🎯 2026 Goal</b><br>
+System Design Expert<br>
+<sub>Architect scalable systems</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"> Tech Stack
 
 <div align="center">
 
-### Core Backend
+### Backend & Core
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### Database & ORM
+### Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Authentication & API
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="50"> Featured Projects
+
+<details open>
+<summary><b>🤖 ProdPulse.AI - AI-Powered Error Analysis Engine</b></summary>
+
+<br>
 
 <div align="center">
 
-### 🤖 ProdPulse.AI - AI-Powered Error Analysis System
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="400">
-
-[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-Visit_Now-00D9FF?style=for-the-badge)](https://prodpulse-ai-1.onrender.com)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-ai)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Groq API](https://img.shields.io/badge/Groq_API-000000?style=flat-square&logo=ai&logoColor=white)](https://groq.com/)
-
-**An intelligent backend service that revolutionizes error debugging using AI**
-
-#### 🎯 Key Features:
-- 🧠 **AI-Powered Analysis**: Integrates Groq's LLaMA 3.3-70B model for instant error interpretation
-- ⚡ **Lightning Fast**: Sub-2 second response time for error analysis
-- 🛡️ **Enterprise Security**: IP-based rate limiting and comprehensive error handling
-- 📊 **Historical Tracking**: MySQL database for error history and pattern recognition
-- 🎚️ **Automatic Severity Detection**: Intelligent classification of error criticality
-- 🌐 **RESTful API**: Clean, documented endpoints with CORS support
-
-#### 💡 Technical Highlights:
-- Layered architecture with service-repository pattern
-- Spring AI integration for seamless LLM communication
-- Custom rate limiting middleware
-- Environment-based configuration management
-- Deployed on Render with CI/CD pipeline
-
-#### 📈 Impact:
-**60% reduction in debugging time** | **Real-time actionable insights** | **Production-ready deployment**
-
----
-
-### 🛍️ AureumPicks - Enterprise E-Commerce Platform
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="400">
-
-[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-Visit_Store-00D9FF?style=for-the-badge)](https://aureumpicks.up.railway.app)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
-
-**Full-featured e-commerce backend with enterprise-grade security**
-
-#### 🔐 Security Features:
-- 🔑 **JWT Authentication**: Stateless authentication with refresh token support
-- 📧 **Email OTP Verification**: Two-factor authentication via Brevo API
-- 🔒 **BCrypt Encryption**: Industry-standard password hashing
-- 👥 **Role-Based Access Control**: Granular permission management
-- 🛡️ **Spring Security**: Complete security configuration with CORS
-
-#### ⚙️ Core Functionality:
-- Complete shopping cart management
-- Order processing and tracking system
-- Product catalog with category management
-- User profile and address management
-- Payment workflow integration
-
-#### 🎨 Frontend Excellence:
-- Premium UI/UX design
-- Day/Night theme toggle
-- Fully responsive layout
-- Smooth animations and transitions
-
-#### 🚀 Deployment:
-Environment-based configuration on Railway with automated deployments
-
----
-
-### 💼 3D Interactive Portfolio
-
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="400">
-
-[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-Explore-00D9FF?style=for-the-badge)](https://sumeetdev.netlify.app)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)](https://threejs.org/)
-
-**Modern portfolio with immersive 3D experience**
-
-#### ✨ Visual Features:
-- 🎮 **3D Particle System**: Interactive particles powered by Three.js
-- 💎 **Glassmorphism Design**: Modern UI with frosted glass effects
-- 🌈 **Smooth Animations**: CSS animations with GPU acceleration
-- 📱 **Fully Responsive**: Perfect on all devices
-
-#### 🛠️ Technical Implementation:
-- Vanilla JavaScript for optimal performance
-- Custom CSS Grid and Flexbox layouts
-- CSS Variables for dynamic theming
-- Smooth scroll navigation
-- Optimized Three.js rendering (60 FPS)
-
-#### 🚀 Deployment:
-Hosted on Netlify with automated GitHub deployments
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-success?style=for-the-badge)](https://prodpulse-ai-1.onrender.com)
 
 </div>
 
----
+**🎯 The Problem:** Engineers waste hours analyzing cryptic production errors
 
-## 📊 GitHub Stats
+**💡 The Solution:** AI analyzes logs in seconds using LLaMA 3.3-70B
+
+**📊 The Impact:**
+- ⚡ 60% faster debugging time
+- 🎯 Automatic severity detection
+- 📈 Historical error tracking
+- 🛡️ IP-based rate limiting
+
+**🛠️ Tech Stack:**
+- Spring Boot + Spring AI
+- Groq API (LLaMA 3.3-70B)
+- MySQL Database
+- RESTful API Design
+
+**✨ Key Features:**
+- 🧠 Advanced AI error interpretation
+- 🔒 Secure REST endpoints
+- 📊 Historical analysis tracking
+- ⚡ Sub-2 second response time
+
+</details>
+
+<details open>
+<summary><b>🛍️ AureumPicks - Enterprise E-Commerce Platform</b></summary>
+
+<br>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sumeet-Y1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumeet-Y1&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet-Y1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Sumeet-Y1&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Store-success?style=for-the-badge)](https://aureumpicks.up.railway.app)
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sumeet-Y1&theme=github-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" />
+</div>
+
+**🛒 Full-featured shopping platform with enterprise security**
+
+**🔐 Security Features:**
+- 🔑 JWT Authentication
+- 📧 Email OTP Verification
+- 🔒 BCrypt Password Encryption
+- 👥 Role-Based Access Control
+- 🛡️ CORS Configuration
+
+**🛠️ Tech Stack:**
+- Spring Boot + Spring Security
+- MySQL Database
+- Brevo Email API
+- Railway Deployment
+
+**✨ Features:**
+- 🛒 Complete cart management
+- 💳 Secure payment integration
+- 🎨 Premium UI with day/night themes
+- 📱 Fully responsive design
+
+</details>
+
+<details>
+<summary><b>💼 Interactive 3D Portfolio</b></summary>
+
+<br>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="300">
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Portfolio-success?style=for-the-badge)](https://sumeetdev.netlify.app)
+
+</div>
+
+**🎮 Modern portfolio with 3D particle system**
+
+**🛠️ Tech Stack:**
+- Three.js for 3D graphics
+- Vanilla JavaScript
+- Custom CSS animations
+- Netlify hosting
+
+**✨ Features:**
+- 🎮 Interactive particle system with mouse tracking
+- ✨ Glassmorphism design effects
+- 🌈 Smooth gradient animations
+- ⚡ Optimized performance
+
+</details>
+
+---
+
+## <img src="https://media.giphy.com/media/cIn5fTcjnKzly6cț/giphy.gif" width="50"> My Journey
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#3B82F6','primaryTextColor':'#fff','primaryBorderColor':'#3B82F6','lineColor':'#3B82F6','secondaryColor':'#1e293b','tertiaryColor':'#0f172a'}}}%%
+timeline
+    title 🚀 Backend Engineering Evolution
+    2024 : Java Fundamentals : First Spring Boot API : MySQL Database Design
+    2025 : Spring Security Mastery : JWT Auth Implementation : E-Commerce Deployment : AI Integration
+    2026 : Microservices Architecture : Kubernetes Learning : System Design Mastery : Distributed Systems
+```
+
+---
+
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50"> 2026 Learning Roadmap
+
+<div align="center">
+
+### Cloud Native Architecture
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![AWS Advanced](https://img.shields.io/badge/AWS_Advanced-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Microservices & Patterns
+![Service Discovery](https://img.shields.io/badge/Service_Discovery-6366F1?style=for-the-badge)
+![API Gateway](https://img.shields.io/badge/API_Gateway-00C853?style=for-the-badge)
+![Circuit Breakers](https://img.shields.io/badge/Circuit_Breakers-FF6B6B?style=for-the-badge)
+![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-9333EA?style=for-the-badge)
+
+### Message Queues & Streaming
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_Pub/Sub-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Advanced Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Query Optimization](https://img.shields.io/badge/Query_Optimization-00C853?style=for-the-badge)
+
+### AI & Machine Learning
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-FF6B6B?style=for-the-badge)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-6366F1?style=for-the-badge)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-9333EA?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎯 Expertise Areas
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50"> Development Philosophy
+
+<div align="center">
+
+| 🎯 Principle | 💭 My Approach |
+|:---:|:---|
+| **Clean Code** | Write code that humans can read, not just machines |
+| **Security First** | Never an afterthought, always designed from the start |
+| **Scalability** | Build for tomorrow's traffic, not just today's |
+| **Testing** | If it can break, it will break—test everything |
+| **Documentation** | Future me will thank present me |
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"> Fun Developer Stats
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60"><br>
-<b>RESTful API Development</b><br>
-<sub>Designing scalable REST APIs with Spring Boot</sub>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80">
+<h3>☕ Coffee</h3>
+<b>∞ cups/day</b>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60"><br>
-<b>Security Architecture</b><br>
-<sub>JWT, OAuth, Spring Security implementation</sub>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80">
+<h3>🐛 Bugs Fixed</h3>
+<b>∞ and counting</b>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"><br>
-<b>Database Design</b><br>
-<sub>MySQL optimization with JPA/Hibernate</sub>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="80">
+<h3>🤖 Spring AI</h3>
+<b>AI Integration Master</b>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"><br>
-<b>Cloud Deployment</b><br>
-<sub>AWS, Docker, containerization strategies</sub>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="80">
+<h3>💡 IntelliJ IDEA</h3>
+<b>My Code Editor</b>
 </td>
 </tr>
 </table>
@@ -242,93 +311,34 @@ Hosted on Netlify with automated GitHub deployments
 
 ---
 
-## 🌟 Development Principles
-
-```java
-public class MyApproach {
-    
-    public void writeCode() {
-        // Clean, readable, and maintainable
-        followSOLIDPrinciples();
-        writeComprehensiveTests();
-        documentEverything();
-    }
-    
-    public void buildSystems() {
-        // Security is not optional
-        implementProperAuthentication();
-        validateAllInputs();
-        handleErrorsGracefully();
-    }
-    
-    public void designArchitecture() {
-        // Scalability from day one
-        useLayeredArchitecture();
-        followRESTfulConventions();
-        planForGrowth();
-    }
-    
-    public void deploy() {
-        // Production-ready always
-        useEnvironmentVariables();
-        implementProperLogging();
-        monitorPerformance();
-    }
-}
-```
-
----
-
-## 📚 2026 Roadmap
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> Let's Connect
 
 <div align="center">
 
-### 🎯 Currently Learning
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300">
 
-**Kubernetes** • **Microservices Architecture** • **System Design Patterns** • **Distributed Systems**
+### 🚀 Ready to collaborate on something amazing?
 
-### 🔜 Next Up
+I'm always open to discussing backend architecture, cloud computing, AI integration,  
+or collaborating on interesting projects!
 
-**Apache Kafka** • **RabbitMQ** • **Redis Caching** • **PostgreSQL** • **MongoDB** • **GraphQL** • **API Gateway Patterns** • **Service Mesh**
+<br>
 
-### 💡 Interests
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeet-backenddev)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumeety202@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sumeetdev.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumeet-Y1)
 
-**Cloud Native Development** • **AI Integration** • **DevOps Practices** • **Performance Optimization** • **Open Source Contribution**
+<br>
 
-</div>
+### 💬 *"Great backends are invisible—they just work, fast and reliably"*
+
+<br>
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
 ---
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-### 💬 Open to collaborating on:
-
-**Backend Development Projects** • **Spring Boot Applications** • **AI Integration** • **Open Source Contributions**  
-**System Design Discussions** • **Cloud Architecture** • **API Development**
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sumeetdev.netlify.app-00D9FF?style=for-the-badge&labelColor=1a1a2e)](https://sumeetdev.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&labelColor=0a66c2)](https://linkedin.com/in/sumeet-backenddev)
-[![Email](https://img.shields.io/badge/📧_Email-sumeety202@gmail.com-EA4335?style=for-the-badge&logo=gmail&labelColor=c5221f)](mailto:sumeety202@gmail.com)
-[![GitHub](https://img.shields.io/badge/⭐_GitHub-Follow-181717?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/Sumeet-Y1)
-
-<br>
-
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-<br>
-
----
-
-<sub>⚡ Backend Developer from Mumbai | Building scalable systems with Spring Boot | Powered by ☕ and clean code</sub>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
+<sub>⚡ Built with passion by Sumeet Yadav | Last Updated: January 2026 | Powered by ☕ and ❤️</sub>
 
 </div>
