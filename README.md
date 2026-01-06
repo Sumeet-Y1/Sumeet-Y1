@@ -225,10 +225,6 @@ System Design Expert<br>
 
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> GitHub Trophies
-
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sumeet-Y1&theme=tokyonight&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
