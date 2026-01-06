@@ -1,44 +1,50 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> HEY THERE, I'M SUMEET YADAV
+# 👋 HEY THERE, I'M SUMEET YADAV
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Engineer+%F0%9F%92%BB;Spring+Boot+Developer+%E2%98%95;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Engineer+%F0%9F%92%BB;Spring+Boot+Specialist+%E2%98%95;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F;Building+Scalable+Systems+%F0%9F%9A%80;Turning+Ideas+into+APIs+%F0%9F%94%A5" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
-### Backend Developer | Cloud Architect | AI Integration Specialist
+### 🚀 Backend Developer | Cloud Architect | AI Integration Specialist
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sumeetdev.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeet-backenddev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumeety202@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge)](https://sumeetdev.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeet-backenddev)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumeety202@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sumeet-Y1&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Sumeet-Y1&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```javascript
+```typescript
 const sumeet = {
     location: "Mumbai, India 🇮🇳",
     role: "Backend Engineer",
-    education: "B.Tech IT ",
-    currentFocus: "AI-Powered APIs",
+    education: "B.Tech IT",
+    currentFocus: "AI-Powered APIs & Microservices",
     
-    techStack: {
-        backend: ["Java", "Spring Boot", "Spring Security"],
-        databases: ["MySQL", "JPA", "Hibernate"],
-        cloud: ["AWS", "Docker", "Nginx"],
-        ai: ["Spring AI", "Groq API", "LLaMA 3.3"]
+    expertise: {
+        backend: ["Java", "Spring Boot", "Spring Security", "REST APIs"],
+        databases: ["MySQL", "JPA/Hibernate", "Database Design"],
+        cloud: ["AWS", "Docker", "Nginx", "Railway"],
+        ai: ["Spring AI", "Groq API", "LLaMA 3.3", "RAG Systems"]
     },
     
-    currentlyLearning: ["Kubernetes", "Microservices", "System Design"],
+    currentlyMastering: [
+        "Kubernetes & Container Orchestration",
+        "Microservices Architecture", 
+        "System Design Patterns",
+        "Distributed Systems"
+    ],
     
-    funFact: "I turn coffee into code ☕ → 💻"
+    codePhilosophy: "Clean, Secure, Scalable",
+    funFact: "I debug in production... said no one ever! ☕→💻"
 };
 ```
 
@@ -46,319 +52,253 @@ const sumeet = {
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> What I'm Up To
+## 🔥 What I'm Building
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"><br>
-<b>🔥 Current Project</b><br>
-ProdPulse.AI - AI Error Analysis<br>
-<sub>Building with Spring AI & LLaMA</sub>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
+<b>Current Project</b><br>
+<a href="https://prodpulse-ai-1.onrender.com">ProdPulse.AI</a><br>
+AI-powered error analysis engine<br>
+<sub>Spring AI + LLaMA 3.3</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"><br>
-<b>📚 Learning</b><br>
-Kubernetes & Microservices<br>
-<sub>Container orchestration mastery</sub>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"><br>
+<b>Learning Path</b><br>
+Microservices & K8s<br>
+Advanced Spring Boot patterns<br>
+<sub>Building for scale</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="100"><br>
-<b>🎯 2026 Goal</b><br>
-System Design Expert<br>
-<sub>Architect scalable systems</sub>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
+<b>2026 Mission</b><br>
+System Design Mastery<br>
+Production-grade architecture<br>
+<sub>Enterprise solutions</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"> Tech Stack
+## 💻 Tech Arsenal
 
 <div align="center">
 
-### Backend & Core
+### 🎯 Backend & Core
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### Database & Cloud
+### 💾 Database & ORM
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Frontend
+### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Workflow
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="50"> Featured Projects
+## 🚀 Featured Projects
 
-<details open>
-<summary><b>🤖 ProdPulse.AI - AI-Powered Error Analysis Engine</b></summary>
+### 🤖 [ProdPulse.AI](https://prodpulse-ai-1.onrender.com) - AI Error Analysis Engine
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
-<div align="center">
+**The Challenge:** Engineers spend hours decoding cryptic production errors
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300">
+**The Innovation:** AI-powered instant error analysis using LLaMA 3.3-70B
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-success?style=for-the-badge)](https://prodpulse-ai-1.onrender.com)
+**Impact Metrics:**
+- ⚡ **60% faster** debugging workflows
+- 🎯 Automatic severity classification
+- 📊 Historical error pattern analysis
+- 🛡️ IP-based rate limiting & security
 
-</div>
+**Tech Stack:** Spring Boot • Spring AI • Groq API • MySQL • REST APIs
 
-**🎯 The Problem:** Engineers waste hours analyzing cryptic production errors
+**Key Features:**
+- 🧠 Advanced AI error interpretation with context
+- 🔒 Secure JWT authentication
+- 📈 Real-time analysis tracking
+- ⚡ Sub-2 second response times
 
-**💡 The Solution:** AI analyzes logs in seconds using LLaMA 3.3-70B
+[![View Project](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-success?style=for-the-badge)](https://prodpulse-ai-1.onrender.com)
 
-**📊 The Impact:**
-- ⚡ 60% faster debugging time
-- 🎯 Automatic severity detection
-- 📈 Historical error tracking
-- 🛡️ IP-based rate limiting
+---
 
-**🛠️ Tech Stack:**
-- Spring Boot + Spring AI
-- Groq API (LLaMA 3.3-70B)
-- MySQL Database
-- RESTful API Design
+### 🛍️ [AureumPicks](https://aureumpicks.up.railway.app) - Enterprise E-Commerce Platform
 
-**✨ Key Features:**
-- 🧠 Advanced AI error interpretation
-- 🔒 Secure REST endpoints
-- 📊 Historical analysis tracking
-- ⚡ Sub-2 second response time
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
-</details>
+**Full-stack e-commerce solution with enterprise-grade security**
 
-<details open>
-<summary><b>🛍️ AureumPicks - Enterprise E-Commerce Platform</b></summary>
+**Security Arsenal:**
+- 🔐 JWT authentication & authorization
+- 📧 Email OTP verification (Brevo API)
+- 🔒 BCrypt password encryption
+- 👥 Role-based access control (RBAC)
+- 🛡️ Spring Security configuration
 
-<br>
+**Tech Stack:** Spring Boot • Spring Security • MySQL • Brevo API • Railway
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Store-success?style=for-the-badge)](https://aureumpicks.up.railway.app)
-
-</div>
-
-**🛒 Full-featured shopping platform with enterprise security**
-
-**🔐 Security Features:**
-- 🔑 JWT Authentication
-- 📧 Email OTP Verification
-- 🔒 BCrypt Password Encryption
-- 👥 Role-Based Access Control
-- 🛡️ CORS Configuration
-
-**🛠️ Tech Stack:**
-- Spring Boot + Spring Security
-- MySQL Database
-- Brevo Email API
-- Railway Deployment
-
-**✨ Features:**
-- 🛒 Complete cart management
-- 💳 Secure payment integration
-- 🎨 Premium UI with day/night themes
+**Features:**
+- 🛒 Complete shopping cart & order management
+- 💳 Secure payment workflow
+- 🎨 Modern UI with dark/light themes
 - 📱 Fully responsive design
 
-</details>
-
-<details>
-<summary><b>💼 Interactive 3D Portfolio</b></summary>
-
-<br>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="300">
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Portfolio-success?style=for-the-badge)](https://sumeetdev.netlify.app)
-
-</div>
-
-**🎮 Modern portfolio with 3D particle system**
-
-**🛠️ Tech Stack:**
-- Three.js for 3D graphics
-- Vanilla JavaScript
-- Custom CSS animations
-- Netlify hosting
-
-**✨ Features:**
-- 🎮 Interactive particle system with mouse tracking
-- ✨ Glassmorphism design effects
-- 🌈 Smooth gradient animations
-- ⚡ Optimized performance
-
-</details>
+[![View Project](https://img.shields.io/badge/🚀_Live_Demo-Visit_Store-success?style=for-the-badge)](https://aureumpicks.up.railway.app)
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> GitHub Stats
+### 💼 [Interactive 3D Portfolio](https://sumeetdev.netlify.app)
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+
+**Immersive portfolio experience with Three.js**
+
+**Tech Stack:** Three.js • Vanilla JavaScript • CSS Animations • Netlify
+
+**Features:**
+- 🎮 Interactive 3D particle system with mouse tracking
+- ✨ Glassmorphism design language
+- 🌈 Smooth gradient transitions
+- ⚡ Performance optimized rendering
+
+[![View Project](https://img.shields.io/badge/🚀_Live_Demo-Explore-success?style=for-the-badge)](https://sumeetdev.netlify.app)
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sumeet-Y1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumeet-Y1&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sumeet-Y1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumeet-Y1&theme=radical&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet-Y1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sumeet-Y1&theme=tokyo-night&hide_border=true&area=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet-Y1&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Sumeet-Y1&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sumeet-Y1&theme=tokyonight&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sumeet-Y1&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/cIn5fTcjnKzly6cț/giphy.gif" width="50"> My Journey
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#3B82F6','primaryTextColor':'#fff','primaryBorderColor':'#3B82F6','lineColor':'#3B82F6','secondaryColor':'#1e293b','tertiaryColor':'#0f172a'}}}%%
-timeline
-    title 🚀 Backend Engineering Evolution
-    2024 : Java Fundamentals : First Spring Boot API : MySQL Database Design
-    2025 : Spring Security Mastery : JWT Auth Implementation : E-Commerce Deployment : AI Integration
-    2026 : Microservices Architecture : Kubernetes Learning : System Design Mastery : Distributed Systems
-```
-
----
-
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50"> 2026 Learning Roadmap
+## 🎓 2026 Learning Roadmap
 
 <div align="center">
 
-### Cloud Native Architecture
+### ☁️ Cloud Native & Orchestration
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
-![AWS Advanced](https://img.shields.io/badge/AWS_Advanced-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 
-### Microservices & Patterns
-![Service Discovery](https://img.shields.io/badge/Service_Discovery-6366F1?style=for-the-badge)
+### 🏗️ Microservices Patterns
 ![API Gateway](https://img.shields.io/badge/API_Gateway-00C853?style=for-the-badge)
-![Circuit Breakers](https://img.shields.io/badge/Circuit_Breakers-FF6B6B?style=for-the-badge)
-![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-9333EA?style=for-the-badge)
+![Service Mesh](https://img.shields.io/badge/Service_Mesh-6366F1?style=for-the-badge)
+![Circuit Breaker](https://img.shields.io/badge/Circuit_Breaker-FF6B6B?style=for-the-badge)
 
-### Message Queues & Streaming
+### 📨 Message Queues & Streaming
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis_Pub/Sub-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Advanced Databases
+### 💾 Advanced Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Query Optimization](https://img.shields.io/badge/Query_Optimization-00C853?style=for-the-badge)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-### AI & Machine Learning
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Vector Databases](https://img.shields.io/badge/Vector_Databases-FF6B6B?style=for-the-badge)
+### 🤖 AI & ML Integration
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-FF6B6B?style=for-the-badge)
 ![RAG Systems](https://img.shields.io/badge/RAG_Systems-6366F1?style=for-the-badge)
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-9333EA?style=for-the-badge)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-9333EA?style=for-the-badge)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50"> Development Philosophy
+## 💡 Development Philosophy
 
 <div align="center">
 
-| 🎯 Principle | 💭 My Approach |
+| Principle | Approach |
 |:---:|:---|
-| **Clean Code** | Write code that humans can read, not just machines |
-| **Security First** | Never an afterthought, always designed from the start |
-| **Scalability** | Build for tomorrow's traffic, not just today's |
-| **Testing** | If it can break, it will break—test everything |
-| **Documentation** | Future me will thank present me |
+| **🎯 Clean Code** | Code is read 10x more than written—make it readable |
+| **🔐 Security First** | Security isn't a feature, it's a foundation |
+| **📈 Scalability** | Design for millions, even if you have hundreds |
+| **🧪 Test Everything** | Untested code is broken code waiting to happen |
+| **📚 Document Well** | Your future self will thank you |
+| **⚡ Performance** | Fast beats pretty, but both is ideal |
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"> Fun Developer Stats
+## 🎮 Developer Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80">
-<h3>☕ Coffee</h3>
-<b>∞ cups/day</b>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80">
-<h3>🐛 Bugs Fixed</h3>
-<b>∞ and counting</b>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="80">
-<h3>🤖 Spring AI</h3>
-<b>AI Integration Master</b>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="80">
-<h3>💡 IntelliJ IDEA</h3>
-<b>My Code Editor</b>
-</td>
-</tr>
-</table>
+| ☕ **Coffee** | 🐛 **Bugs Squashed** | 🚀 **APIs Built** | 💡 **Problems Solved** |
+|:---:|:---:|:---:|:---:|
+| ∞ cups | 1000+ | 50+ | Daily |
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> Let's Connect
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-### 🚀 Ready to collaborate on something amazing?
+### 💬 Open to exciting opportunities in:
 
-I'm always open to discussing backend architecture, cloud computing, AI integration,  
-or collaborating on interesting projects!
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeet-backenddev)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumeety202@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sumeetdev.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumeet-Y1)
+**Backend Development** • **Cloud Architecture** • **AI Integration** • **System Design** • **Open Source**
 
 <br>
 
-### 💬 *"Great backends are invisible—they just work, fast and reliably"*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/sumeet-backenddev)
+[![Email](https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:sumeety202@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://sumeetdev.netlify.app)
 
 <br>
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+### 💭 *"Clean code always looks like it was written by someone who cares"*
+
+<br>
 
 ---
 
-<sub>⚡ Built with passion by Sumeet Yadav | Last Updated: January 2026 | Powered by ☕ and ❤️</sub>
+<sub>⚡ Crafted with passion by Sumeet Yadav | Powered by ☕ and endless curiosity | Last updated: January 2026</sub>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 </div>
