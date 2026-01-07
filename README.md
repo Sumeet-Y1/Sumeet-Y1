@@ -155,7 +155,7 @@ System Design Expert<br>
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Store-success?style=for-the-badge)](https://aureumpicks.up.railway.app)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Store-success?style=for-the-badge)](https://ecommerce-fullstack-nvm0.onrender.com/)
 
 </div>
 
