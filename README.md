@@ -337,7 +337,7 @@ or collaborating on interesting projects!
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
----
+----
 
 <sub>⚡ Built with passion by Sumeet Yadav | Last Updated: January 2026 | Powered by ☕ and ❤️</sub>
 
