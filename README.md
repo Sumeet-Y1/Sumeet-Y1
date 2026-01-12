@@ -339,6 +339,6 @@ or collaborating on interesting projects!
 
 ----
 
-<sub>⚡ Built with passion by Sumeet Yadav | Last Updated: January 2026 | Powered by ☕ and ❤️</sub>
+<sub>⚡ Built with passion by Sumeet Yadav | Last Updated: January 2026 | Powered by ☕ and 💕</sub>
 
 </div>
