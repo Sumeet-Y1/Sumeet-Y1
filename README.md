@@ -26,8 +26,8 @@
 const sumeet = {
     location: "Mumbai, India 🇮🇳",
     role: "Backend Engineer",
-    education: "B.Tech IT ",
-    currentFocus: "AI-Powered APIs",
+    education: "B.Tech IT",
+    currentFocus: "AI-Powered APIs & Microservices",
     
     techStack: {
         backend: ["Java", "Spring Boot", "Spring Security"],
@@ -143,6 +143,42 @@ System Design Expert<br>
 - 🔒 Secure REST endpoints
 - 📊 Historical analysis tracking
 - ⚡ Sub-2 second response time
+
+</details>
+
+<details open>
+<summary><b>🎓 Edapt - Student Management System</b></summary>
+
+<br>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300">
+
+[![Live API](https://img.shields.io/badge/🚀_Live_API-Try_Now-success?style=for-the-badge)](https://student-api-springboot-algk.onrender.com)
+
+</div>
+
+**📚 Modern student management platform with enterprise-grade backend**
+
+**🎯 Core Features:**
+- 👨‍🎓 Complete student CRUD operations
+- 📊 Advanced search and filtering
+- 🔐 Secure authentication & authorization
+- 📈 Performance tracking and analytics
+
+**🛠️ Tech Stack:**
+- Spring Boot REST API
+- MySQL Database
+- JPA/Hibernate ORM
+- RESTful Architecture
+
+**✨ Highlights:**
+- 🚀 RESTful API design
+- 🔒 Role-based access control
+- 📊 Optimized database queries
+- ⚡ Fast response times
+- 📱 Mobile-ready endpoints
 
 </details>
 
