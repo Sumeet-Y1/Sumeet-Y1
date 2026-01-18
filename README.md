@@ -38,7 +38,7 @@ Currently Learning: Kubernetes, Microservices, System Design
 
 ## 💼 Featured Projects
 
-### 🤖 [ProdPulse.AI](https://prodpulse-ai-1.onrender.com) - AI Error Analysis Engine
+### 🤖 [ProdPulse.AI](https://prodpulse-ai-1-t6n5.onrender.com) - AI Error Analysis Engine
 > Intelligent log analysis powered by LLaMA 3.3-70B
 
 **The Challenge:** Production errors can take hours to debug and understand.
