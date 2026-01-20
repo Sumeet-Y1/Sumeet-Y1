@@ -250,6 +250,6 @@ I'm always interested in discussing backend architecture, cloud solutions, AI in
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%"/>
 
-**Built with ☕ and passion • Last updated January 2026**
+**Built with ☕  • Last updated January 2026**
 
 </div>
