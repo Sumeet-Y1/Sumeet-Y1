@@ -108,7 +108,7 @@ A modern, interactive portfolio featuring 3D particle systems, smooth animations
 
 ## 🎓 Virtual Experience Programs
 
-### ☁️ [AWS APAC Solutions Architecture](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/YOUR_AWS_CERT_ID.pdf)
+### ☁️ [AWS APAC Solutions Architecture](https://www.theforage.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_68cb08cb0b0b9899833e6350_1769915156093_completion_certificate.pdf)
 > **Forage** • February 2026
 
 **The Challenge:** A rapidly growing startup experiencing slow response times, server crashes, and deployment downtime on a single EC2 instance.
@@ -133,7 +133,7 @@ A modern, interactive portfolio featuring 3D particle systems, smooth animations
 
 ---
 
-### 💼 [JPMorgan Chase Software Engineering](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/YOUR_JP_CERT_ID.pdf)
+### 💼 [JPMorgan Chase Software Engineering](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_68cb08cb0b0b9899833e6350_1769868873310_completion_certificate.pdf)
 > **Forage** • January 2026
 
 **The Challenge:** Build a high-performance microservice to process thousands of financial transactions with external API integration.
