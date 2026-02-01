@@ -106,6 +106,57 @@ A modern, interactive portfolio featuring 3D particle systems, smooth animations
 
 ---
 
+## 🎓 Virtual Experience Programs
+
+### ☁️ [AWS APAC Solutions Architecture](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/YOUR_AWS_CERT_ID.pdf)
+> **Forage** • February 2026
+
+**The Challenge:** A rapidly growing startup experiencing slow response times, server crashes, and deployment downtime on a single EC2 instance.
+
+**My Solution:** Designed a scalable, highly available architecture using AWS Elastic Beanstalk to handle their React + Flask + PostgreSQL application.
+
+**Architecture Components:**
+- 🌐 **Route 53** - DNS management and health checks
+- ⚖️ **Elastic Load Balancer** - Traffic distribution across multiple instances
+- 🚀 **Elastic Beanstalk** - Auto-scaling EC2 groups with blue/green deployments
+- 🗄️ **RDS PostgreSQL** - Managed database with automated backups
+- 📦 **S3** - Static content delivery for React SPA
+- 🔄 **CodePipeline** - Automated CI/CD for zero-downtime deployments
+
+**Impact:**
+- ✅ Eliminated single point of failure
+- ✅ Zero-downtime deployments
+- ✅ Auto-scaling to handle traffic spikes
+- ✅ Disaster recovery with multi-AZ deployment
+
+**Skills:** AWS Architecture • Elastic Beanstalk • Solutions Design • Cost Optimization • Client Communication
+
+---
+
+### 💼 [JPMorgan Chase Software Engineering](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/YOUR_JP_CERT_ID.pdf)
+> **Forage** • January 2026
+
+**The Challenge:** Build a high-performance microservice to process thousands of financial transactions with external API integration.
+
+**My Solution:** Developed an event-driven microservice using Kafka, Spring Boot, and REST APIs for real-time transaction processing.
+
+**What I Built:**
+- 📨 **Kafka Integration** - High-volume message consumption with configurable topics
+- 💾 **Transaction Processing** - Validation and persistence with Spring Data JPA + H2
+- 🔌 **External API Integration** - RestTemplate for incentive API communication
+- 🌐 **REST Endpoints** - JSON-based user balance queries
+- ✅ **Comprehensive Testing** - Maven test suites and debugger-driven verification
+
+**Technical Highlights:**
+- Event-driven architecture for scalability
+- Entity modeling with relational database design
+- Clean architectural boundaries (Controller-Service-Repository)
+- Reliable message ingestion and processing pipeline
+
+**Skills:** Kafka • Microservices • Spring Data JPA • H2 Database • RestTemplate • Event-Driven Architecture
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Backend
@@ -115,11 +166,13 @@ A modern, interactive portfolio featuring 3D particle systems, smooth animations
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate)
 ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square)
+![H2](https://img.shields.io/badge/H2-0000BB?style=flat-square)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -250,6 +303,6 @@ I'm always interested in discussing backend architecture, cloud solutions, AI in
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%"/>
 
-**Built with ☕  • Last updated January 2026**
+**Built with ☕  • Last updated February 2026**
 
 </div>
