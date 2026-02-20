@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'M Sumeet Yadav
+# 👋 Hi, I'M Sumeet Yadav
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=Backend+Engineer+%7C+Spring+Boot+Expert;Building+Scalable+%26+Secure+APIs;Cloud+Native+%7C+AI+Integration;Turning+Ideas+Into+Production+Code" alt="Typing SVG" />
 
