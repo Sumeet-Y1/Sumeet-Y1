@@ -22,7 +22,7 @@ I'm a **Backend Engineer** specializing in building **production-grade APIs** wi
 
 ```yaml
 Name: Sumeet Yadav
-Location: Mumbai, India 🇮🇳
+Location: Mumbai, India 
 Role: Backend Engineer
 Focus: Spring Boot • REST APIs • Cloud • AI
 Currently Learning: Kubernetes, Microservices, System Design
