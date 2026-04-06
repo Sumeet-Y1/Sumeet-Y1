@@ -78,7 +78,6 @@ Currently Learning: Kubernetes, Microservices, System Design
 I'm always interested in discussing backend architecture, cloud solutions, AI integration, or collaborating on exciting projects.
 
 **How to reach me:**
-- 💼 [LinkedIn](https://linkedin.com/in/sumeet-backenddev) - Let's connect professionally
 - 📧 [Email](mailto:sumeety202@gmail.com) - Drop me a message
 - 🌐 [Portfolio](https://sumeetdev.netlify.app) - Check out my work
 - 💻 [GitHub](https://github.com/Sumeet-Y1) - Explore my code
