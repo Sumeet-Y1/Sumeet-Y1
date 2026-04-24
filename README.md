@@ -50,14 +50,6 @@
 ![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=00ff88)
 ![Maven](https://img.shields.io/badge/Maven-0d1117?style=flat-square&logo=apachemaven&logoColor=00ff88)
 
-| Skill | Level |
-|:--|:--|
-| Java | ![95%](https://progress-bar.xyz/95/?scale=100&title=&width=200&color=00ff88&suffix=%25) |
-| Spring Boot | ![90%](https://progress-bar.xyz/90/?scale=100&title=&width=200&color=00ff88&suffix=%25) |
-| Spring Security | ![85%](https://progress-bar.xyz/85/?scale=100&title=&width=200&color=00ff88&suffix=%25) |
-| Spring AI | ![65%](https://progress-bar.xyz/65/?scale=100&title=&width=200&color=00ff88&suffix=%25) |
-| Kafka | ![60%](https://progress-bar.xyz/60/?scale=100&title=&width=200&color=00ff88&suffix=%25) |
-
 <br/>
 
 **Database**
@@ -67,11 +59,6 @@
 ![JPA](https://img.shields.io/badge/JPA-0d1117?style=flat-square&logoColor=00ff88)
 ![H2](https://img.shields.io/badge/H2-0d1117?style=flat-square&logoColor=00ff88)
 
-| Skill | Level |
-|:--|:--|
-| MySQL / JPA | ![87%](https://progress-bar.xyz/87/?scale=100&title=&width=200&color=00ff88&suffix=%25) |
-| Hibernate | ![80%](https://progress-bar.xyz/80/?scale=100&title=&width=200&color=00ff88&suffix=%25) |
-
 <br/>
 
 **Cloud & DevOps**
@@ -80,13 +67,6 @@
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00ff88)
 ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=00ff88)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00ff88)
-
-| Skill | Level |
-|:--|:--|
-| Linux | ![92%](https://progress-bar.xyz/92/?scale=100&title=&width=200&color=00ff88&suffix=%25) |
-| Docker | ![80%](https://progress-bar.xyz/80/?scale=100&title=&width=200&color=00ff88&suffix=%25) |
-| AWS | ![65%](https://progress-bar.xyz/65/?scale=100&title=&width=200&color=00ff88&suffix=%25) |
-| Nginx | ![60%](https://progress-bar.xyz/60/?scale=100&title=&width=200&color=00ff88&suffix=%25) |
 
 <br/>
 
@@ -99,6 +79,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff88)
 ![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs&logoColor=00ff88)
 
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+</div>
+
 ---
 
 <h2><code>> ./github-stats.sh</code></h2>
@@ -107,9 +93,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sumeet-Y1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=6e7681&ring_color=00ff88" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet-Y1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=6e7681" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sumeet-Y1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=6e7681&ring_color=00ff88" />
 
 <br/><br/>
 
