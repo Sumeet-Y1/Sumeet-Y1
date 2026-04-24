@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="600">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6366F1?style=for-the-badge)](https://sumeetdev.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6366F1?style=for-the-badge)](https://sumeetdev.pages.dev)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:sumeety202@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=Sumeet-Y1&style=flat-square&color=6366F1)
@@ -78,7 +78,7 @@ I'm always interested in discussing backend architecture, cloud solutions, AI in
 
 **How to reach me:**
 - 📧 [Email](mailto:sumeety202@gmail.com) - Drop me a message
-- 🌐 [Portfolio](https://sumeetdev.netlify.app) - Check out my work
+- 🌐 [Portfolio](https://sumeetdev.pages.dev/) - Check out my work
 - 💻 [GitHub](https://github.com/Sumeet-Y1) - Explore my code
 
 ---
