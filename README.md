@@ -97,7 +97,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Sumeet-Y1&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88&sideLabels=6e7681&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sumeet-Y1&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88&sideLabels=6e7681&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
@@ -128,4 +128,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
-
