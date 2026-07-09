@@ -17,22 +17,66 @@ Software Engineer from Mumbai, India — building with **Spring Boot · DevOps �
 
 ### `> cat skills.sh`
 
-**Backend** — Java, Spring Boot, Spring Security, Spring AI, JWT, REST APIs
-**Data** — MySQL, Hibernate, JPA, H2
-**Cloud & DevOps** — AWS, Docker, Kubernetes, GitHub Actions, Grafana, Prometheus, Nginx, Terraform, Linux
-**Frontend** — JavaScript, Three.js, HTML5, CSS3
-**Tools** — Maven, IntelliJ, Postman, Git, Jira, Kafka
+**Backend**
 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=00ff88)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=00ff88)
+![Spring Security](https://img.shields.io/badge/Spring_Security-0d1117?style=flat-square&logo=springsecurity&logoColor=00ff88)
+![Spring AI](https://img.shields.io/badge/Spring_AI-0d1117?style=flat-square&logo=spring&logoColor=00ff88)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=00ff88)
+
+</div>
+
+**Data**
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00ff88)
+![Hibernate](https://img.shields.io/badge/Hibernate-0d1117?style=flat-square&logo=hibernate&logoColor=00ff88)
+![JPA](https://img.shields.io/badge/JPA-0d1117?style=flat-square&logoColor=00ff88)
+![H2](https://img.shields.io/badge/H2-0d1117?style=flat-square&logoColor=00ff88)
+
+</div>
+
+**Cloud & DevOps**
+
+<div align="center">
+
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=00ff88)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00ff88)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=00ff88)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00ff88)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=00ff88)
+![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=flat-square&logo=grafana&logoColor=00ff88)
+![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&logo=prometheus&logoColor=00ff88)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=00ff88)
+![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=flat-square&logo=terraform&logoColor=00ff88)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00ff88)
+
+</div>
+
+**Frontend**
+
+<div align="center">
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff88)
+![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs&logoColor=00ff88)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=00ff88)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=00ff88)
+
+</div>
+
+**Tools**
+
+<div align="center">
+
+![Maven](https://img.shields.io/badge/Maven-0d1117?style=flat-square&logo=apachemaven&logoColor=00ff88)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-0d1117?style=flat-square&logo=intellijidea&logoColor=00ff88)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=00ff88)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00ff88)
+![Jira](https://img.shields.io/badge/Jira-0d1117?style=flat-square&logo=jira&logoColor=00ff88)
+![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=00ff88)
 
 </div>
 
